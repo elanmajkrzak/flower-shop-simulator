@@ -1,0 +1,1 @@
+typedef TiledMap = { layers:Array<{ data:Array<Int>}>, tilewidth:Int, tileheight:Int, width:Int, height:Int };

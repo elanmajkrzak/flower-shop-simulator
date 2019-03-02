@@ -1,0 +1,11 @@
+*.n
+*.swf
+*.js
+*.js.map
+bin
+.tmp
+/hxd/net/inspect.min.css
+/hxd/inspect/inspect.min.css
+/samples/build
+/*.xml
+.vscode
